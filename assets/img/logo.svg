@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="GenMind AI Academy logo">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#eef7ff"/>
+      <stop offset="55%" stop-color="#9fdcff"/>
+      <stop offset="100%" stop-color="#d6d0ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="54" fill="#0b1120"/>
+  <rect x="18" y="18" width="220" height="220" rx="42" fill="none" stroke="url(#g)" stroke-opacity="0.42"/>
+  <path d="M70 166V90h22l34 44 34-44h24v76h-23v-40l-31 39h-8l-31-39v40z" fill="url(#g)"/>
+  <circle cx="192" cy="70" r="12" fill="#c7f0ff"/>
+</svg>
